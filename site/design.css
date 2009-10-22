@@ -4,26 +4,44 @@
 	margin-right:15px;
 	float: left;
 	width: 140px;
+	
 }
+#head
+{
+	width:90%;
+	font-size:40px;
+	text-align:center;
+	background-color:#eeeeee;
+	margin:auto;
+	border:solid 1px;
+	padding:10px;
+	margin-bottom:20px;
+	margin-top:20px;
 
+}
 .menu_math
 {	
 	font-size: 10pt;
 	border: 2px solid black;
 	margin-bottom: 10px;
+	background-color:#dddddd;
 }
 
 .menu_res
 {
-	
+	background-color:#dddddd;
 	font-size: 10pt;
 	border: 2px solid black;
 }
 
+code
+{
+	white-space:pre;
+}
 ul
 {
 	padding: 0px;
-	padding-left: 10px;
+	padding-left: 5px;
 	padding-top: 10px;
 	margin:0px;
 	margin-left: 15px;
@@ -31,6 +49,8 @@ ul
 li
 {
 	padding-bottom: 10px;
+	padding-right:10px;
+
 }
 
 
@@ -38,41 +58,57 @@ body
 {
 	width: 100%;
 	margin: auto;
+	
 }
 
 #content
 {
+	border:1px solid black;
 	margin-left: 170px;
+	padding:10px;
+	background-color:#eeeeee;
+	margin-right:5px; 
+	margin-bottom:20px;
+	overflow:auto;
 }
 
 .bloc
 {
+	
 	width: 100%;
 	margin: auto;
 	height: auto;
-	overflow:;
+	padding-bottom:10px;	
 
 }
 .code
-{
+{	
+	
+	margin-top:10px;
+	margin-bottom:10px;
+	background-color:#555555;
 	white-space: nowrap;
 	overflow:auto;
 	height: 300px;
-	max-width:49%; 
-	min-width:49%;
+	width:49%;
 	float:left;
-	border: 1px solid blue;
+	border: 1px solid grey;
+	color:#eeeeee;
 	margin-right:5px;
 }
 
 .apercu
 {
-	width:49%;
-	float: right;
+	margin-top:10px;
+	margin-bottom:10px;
+	background-color:#555555;
+	white-space: nowrap;
+	overflow:auto;
 	height: 300px;
-	border: 1px solid blue;
-	overflow: auto;
-	margin-right:5px;
+	width:49%;
+	float:left;
+	border: 1px solid grey;
+	color:#eeeeee;
 }
 
 .p1
@@ -83,6 +119,7 @@ height:100px;
 margin:20px;
 padding: 5px;
 border:solid 2px #ffcc00;
+white-space:normal; On rajoute cette ligne pour que le texte ne sorte pas du cadre
 }
 
 .p2
@@ -92,12 +129,12 @@ height:100px;
 margin:20px;
 padding: 15px;
 border:solid 2px #ffcc00;
-
+white-space:normal;
 }
 
 .p3
 {
-
+white-space:normal;
 width:250px;
 height:150px;
 margin:20px;
@@ -107,7 +144,7 @@ border:solid 2px #ffcc00;
 
 .p4
 {
-
+white-space:normal;
 width:350px;
 height:100px;
 margin:20px;
