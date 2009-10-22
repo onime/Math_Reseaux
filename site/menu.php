@@ -25,6 +25,8 @@
     </ul></li>	
  <li>Wireshark<ul>
 	<li><a href="/site/res/Wireshark/tp_wire_ex1.php">Prise en main</a></li>
+	<li><a href="/site/res/Wireshark/tp_wire_ex2.php">Analyse Ping</a></li>
+	<li><a href="/site/res/Wireshark/tp_wire_ex3.php">Analyse ARP</a></li>
  
  
  
