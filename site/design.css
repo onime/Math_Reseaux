@@ -1,0 +1,116 @@
+﻿#menu
+{
+	margin-left: 15px;
+	margin-right:15px;
+	float: left;
+	width: 140px;
+}
+
+.menu_math
+{	
+	font-size: 10pt;
+	border: 2px solid black;
+	margin-bottom: 10px;
+}
+
+.menu_res
+{
+	
+	font-size: 10pt;
+	border: 2px solid black;
+}
+
+ul
+{
+	padding: 0px;
+	padding-left: 10px;
+	padding-top: 10px;
+	margin:0px;
+	margin-left: 15px;
+}
+li
+{
+	padding-bottom: 10px;
+}
+
+
+body
+{
+	width: 100%;
+	margin: auto;
+}
+
+#content
+{
+	margin-left: 170px;
+}
+
+.bloc
+{
+	width: 100%;
+	margin: auto;
+	height: auto;
+	overflow:;
+
+}
+.code
+{
+	white-space: nowrap;
+	overflow:auto;
+	height: 300px;
+	max-width:49%; 
+	min-width:49%;
+	float:left;
+	border: 1px solid blue;
+	margin-right:5px;
+}
+
+.apercu
+{
+	width:49%;
+	float: right;
+	height: 300px;
+	border: 1px solid blue;
+	overflow: auto;
+	margin-right:5px;
+}
+
+.p1
+{
+
+width:250px;
+height:100px;
+margin:20px;
+padding: 5px;
+border:solid 2px #ffcc00;
+}
+
+.p2
+{
+width:250px;
+height:100px;
+margin:20px;
+padding: 15px;
+border:solid 2px #ffcc00;
+
+}
+
+.p3
+{
+
+width:250px;
+height:150px;
+margin:20px;
+padding: 5px;
+border:solid 2px #ffcc00;
+}
+
+.p4
+{
+
+width:350px;
+height:100px;
+margin:20px;
+padding: 5px;
+border:solid 2px blue;
+}

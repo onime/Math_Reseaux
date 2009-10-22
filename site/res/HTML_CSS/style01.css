@@ -1,0 +1,46 @@
+p
+{
+width:250px;
+height:100px;
+margin:20px;
+padding:5px;
+border:solid 2px #ffcc00
+}
+
+#paragraphe1
+{
+width:250px;
+height:100px;
+margin:20px;
+padding:5px;
+border:solid 2px #00cc00
+}
+
+.paragraphe1
+{
+width:250px;
+height:100px;
+margin:20px;
+padding:5px;
+border:solid 2px #ff0000
+}
+
+#paragraphe2
+{
+width:200px;
+height:100px;
+margin:20px;
+padding:5px;
+border:solid 2px #cccc00
+}
+
+#nav
+{
+background-color:#ffcc0;
+padding:1em;
+margin-top:1em;
+border-style:solid;
+border-width:1px;
+border-color:#ffccff;
+text-align:center;
+}
